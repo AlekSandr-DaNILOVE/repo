@@ -1,2 +1,2 @@
 # repo
-repo-desktop
+repo-desktop project
